@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KR_5R5C105_R'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "KR-5R5C105-R" (!) = "", "KR5R5C105R", "Other", "504-KR-5R5C105-R", "https://www.mouser.co.uk/ProductDetail/Eaton-Electronics/KR-5R5C105-R?qs=9GX7soZQXxFI7DTVwcJg9Q%3D%3D", "Supercapacitors / Ultracapacitors 1F 5.5V EDLC Coin Cell Cyl", "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-kr-supercapacitors-coin-cells-data-sheet.pdf", "7.1 mm"
+END_PART
+
+END.
