@@ -13313,7 +13313,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSQ-123-03-G-D"
+		(property "MPN" "SSQ-123-02-G-D"
 			(at 62.23 57.15 0)
 			(effects
 				(font
@@ -13331,7 +13331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "SAM1196-23-ND"
+		(property "Vendor PN" "SAM1185-23-ND"
 			(at 62.23 57.15 0)
 			(effects
 				(font
@@ -13657,7 +13657,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSQ-123-03-G-D"
+		(property "MPN" "SSQ-123-02-G-D"
 			(at 125.73 57.15 0)
 			(effects
 				(font
@@ -13675,7 +13675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "SAM1196-23-ND"
+		(property "Vendor PN" "  SAM1185-23-ND"
 			(at 125.73 57.15 0)
 			(effects
 				(font
