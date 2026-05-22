@@ -926,8 +926,8 @@
     ]
   ],
   "text_variables": {
-    "PWB_VER": "B",
-    "SCH_VER": "2"
+    "PWB_VER": "C",
+    "SCH_VER": "3"
   },
   "tuning_profiles": {
     "meta": {

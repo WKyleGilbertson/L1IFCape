@@ -13927,7 +13927,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssq-1xx-xx-xxx-x-xx-xxx-xx-x-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/ssq_th.pdf"
 			(at 62.23 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13949,7 +13949,7 @@
 				)
 			)
 		)
-		(property "MPN" "SSQ-123-02-G-D"
+		(property "MPN" "SSQ-123-23-G-D"
 			(at 62.23 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13971,7 +13971,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "SAM1185-23-ND"
+		(property "Vendor PN" "612-SSQ-123-23-G-D-ND"
 			(at 62.23 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -14403,7 +14403,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssq-1xx-xx-xxx-x-xx-xxx-xx-x-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/ssq_th.pdf"
 			(at 125.73 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14425,7 +14425,7 @@
 				)
 			)
 		)
-		(property "MPN" "SSQ-123-02-G-D"
+		(property "MPN" "SSQ-123-23-G-D"
 			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -14447,7 +14447,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "SAM1185-23-ND"
+		(property "Vendor PN" "612-SSQ-123-23-G-D-ND"
 			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -26430,7 +26430,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 35.56 116.078 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26452,7 +26452,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 35.56 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -26463,7 +26463,7 @@
 				)
 			)
 		)
-		(property "Description" "RES SMD 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES SMD 1K OHM 1% 1/10W 0603"
 			(at 35.56 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -26485,7 +26485,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 35.56 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -26507,7 +26507,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "P10.0KHCT-ND"
+		(property "Vendor PN" "P1.00KHCT-ND"
 			(at 35.56 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -38059,7 +38059,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 30.988 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38081,7 +38081,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 29.21 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -38092,7 +38092,7 @@
 				)
 			)
 		)
-		(property "Description" "RES SMD 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES SMD 1K OHM 1% 1/10W 0603"
 			(at 29.21 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -38114,7 +38114,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 29.21 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -38136,7 +38136,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "P10.0KHCT-ND"
+		(property "Vendor PN" "P1.00KHCT-ND"
 			(at 29.21 110.49 0)
 			(hide yes)
 			(show_name no)
