@@ -6,7 +6,7 @@
 	(paper "A")
 	(title_block
 		(title "L1IFCape")
-		(date "2026-08-14")
+		(date "2026-08-15")
 		(rev "${SCH_VER}")
 		(comment 1 "https://cern.ch/cern-ohl ")
 		(comment 2 "License: CERN-OHL-W-2.0")
@@ -8924,11 +8924,12 @@
 		)
 		(uuid "13cfaebb-2822-4533-b59c-64f4a8653fac")
 	)
-	(text "   R2  R3  R4  R5  R6  R7  R8  R9  R10\n#1  0  NL   0   0  NL   0  NL  NL  NL   Device State 2\n#2  0  NL   0  NL   0   0  NL  NL  NL   Device State 6\n#3 NL   0  NL  NL  NL  NL  33  33  33   Serial Interface"
+	(text "   R1  R2  R3  R4  R5  R6  R7  R8  R9\n#1  0  NL   0   0  NL   0  NL  NL  NL   Device State 2\n#2  0  NL   0  NL   0   0  NL  NL  NL   Device State 6\n#3 NL   0  NL  NL  NL  NL  33  33  33   Serial Interface"
 		(exclude_from_sim no)
 		(at 14.732 201.93 0)
 		(effects
 			(font
+				(face "osifont")
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
@@ -17093,7 +17094,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1af6c5f7-65c6-48e5-868b-0455879fe7f2")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 62.484 167.132 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17199,7 +17200,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -17582,7 +17583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2815e620-f003-4f41-a94f-268a9a3daa22")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 68.58 180.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17688,7 +17689,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -20961,7 +20962,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3987d0ef-954b-4167-8a84-d00ef082f376")
-		(property "Reference" "R9"
+		(property "Reference" "R8"
 			(at 92.456 45.974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21067,7 +21068,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R9")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -22108,7 +22109,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d4b8325-da17-4998-8a1d-71b8294c967d")
-		(property "Reference" "R1"
+		(property "Reference" "R10"
 			(at 168.656 135.382 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22434,7 +22435,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R1")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -23120,7 +23121,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "515f6efe-4291-4074-994a-90f9c161290d")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 96.012 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23226,7 +23227,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R8")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -24645,7 +24646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62b064a3-2908-41fd-97b0-d1079a7f26c0")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 75.438 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24751,7 +24752,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -25092,7 +25093,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a26aabb-b76c-4efb-8c4f-ec847b6c1e5f")
-		(property "Reference" "R3"
+		(property "Reference" "R2"
 			(at 61.214 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25200,7 +25201,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R3")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -26807,7 +26808,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f2b85f5-9a8a-4260-83f1-ebd554d8ac62")
-		(property "Reference" "R10"
+		(property "Reference" "R9"
 			(at 34.798 44.704 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26913,7 +26914,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R10")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -33464,7 +33465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf9c511b-2ed1-4d9e-9924-0c003ce17617")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 74.93 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33570,7 +33571,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -36927,7 +36928,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7b01fbc-3b77-4c32-bb2a-1d3cb4eebac4")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 69.088 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37033,7 +37034,7 @@
 		(instances
 			(project "L1IFCape"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
