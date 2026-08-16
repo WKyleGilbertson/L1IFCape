@@ -537,7 +537,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "L1IFCape_BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -553,7 +553,7 @@
       "exclude_dnp": false,
       "fields_ordered": [
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Reference",
           "name": "Reference",
           "show": true
@@ -571,34 +571,34 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -610,13 +610,259 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltMPN1",
+          "name": "AltMPN1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltMPN2",
+          "name": "AltMPN2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltVPN",
+          "name": "AltVPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltVPN1",
+          "name": "AltVPN1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltValue",
+          "name": "AltValue",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltValue2",
+          "name": "AltValue2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltVendor",
+          "name": "AltVendor",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DKD",
+          "name": "DKD",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "DNP",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Detail Desc",
+          "name": "Detail Desc",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Details",
+          "name": "Details",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey",
+          "name": "DigiKey",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "HEIGHT",
+          "name": "HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER_NAME",
+          "name": "MANUFACTURER_NAME",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER_PART_NUMBER",
+          "name": "MANUFACTURER_PART_NUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFD",
+          "name": "MFD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFR",
+          "name": "MFR",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MOUSER_PART_NUMBER",
+          "name": "MOUSER_PART_NUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MOUSER_PRICE-STOCK",
+          "name": "MOUSER_PRICE-STOCK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Notes",
+          "name": "Notes",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Prior Desc",
+          "name": "Prior Desc",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Prior MPN",
+          "name": "Prior MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Prior Vendor PN",
+          "name": "Prior Vendor PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "VPN",
+          "name": "VPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Vendor",
+          "name": "Vendor",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Vendor PN",
+          "name": "Vendor PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltMPN",
+          "name": "AltMPN",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "Description",
+          "name": "Description",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "AltMFR2",
+          "name": "AltMFR2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AltMFR",
+          "name": "AltMFR",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

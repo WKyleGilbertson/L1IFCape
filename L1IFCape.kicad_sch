@@ -8948,7 +8948,7 @@
 	)
 	(text "Load C19 OR X2"
 		(exclude_from_sim no)
-		(at 105.918 183.388 0)
+		(at 105.918 183.896 0)
 		(effects
 			(font
 				(face "Stencil")
@@ -14397,7 +14397,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "612-SSQ-123-23-G-D-ND"
 			(at 62.23 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -14873,7 +14873,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "612-SSQ-123-23-G-D-ND"
 			(at 134.62 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15557,6 +15557,17 @@
 				)
 			)
 		)
+		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
+			(at 190.5 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "33cb4df4-f332-4129-a5ad-c58df289ce30")
 		)
@@ -15968,6 +15979,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 182.88 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "de478b0d-3ec7-4bd7-87c6-b3cfbefb6762")
 		)
@@ -16093,7 +16115,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-15708-1-ND"
 			(at 246.38 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16438,7 +16460,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 147.32 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -16990,6 +17012,17 @@
 				)
 			)
 		)
+		(property "VPN" "399-C0603C270F3HACAUTOCT-ND"
+			(at 165.1 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "07fa6ac0-17ef-4a52-bad2-601dab7d6c0e")
 		)
@@ -17136,7 +17169,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 64.77 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -17158,7 +17191,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 64.77 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -17169,7 +17202,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 64.77 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -17180,7 +17213,29 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "VPN" "P0.0GCT-ND"
+			(at 64.77 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 64.77 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "P0.0GCT-ND"
 			(at 64.77 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -17625,7 +17680,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 71.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -17647,7 +17702,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 71.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -17658,7 +17713,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 71.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -17669,7 +17724,29 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "Vendor PN" "P0.0GCT-ND"
+			(at 71.12 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 71.12 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P0.0GCT-ND"
 			(at 71.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -18426,7 +18503,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 80.01 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -18980,6 +19057,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 153.67 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ce5faf58-330a-4f19-bafa-c5632f9592b0")
 		)
@@ -19304,6 +19392,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 231.14 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-5241-1-ND"
 			(at 231.14 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -19785,7 +19884,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "P10.0KHCT-ND"
 			(at 261.62 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -20671,6 +20770,17 @@
 				)
 			)
 		)
+		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
+			(at 130.81 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5e52fc7-11dc-4b42-b131-f691b285ba0d")
 		)
@@ -21004,7 +21114,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 93.98 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -21026,7 +21136,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 93.98 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -21037,7 +21147,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 93.98 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -21050,6 +21160,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 93.98 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 93.98 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 93.98 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21184,7 +21316,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-14399-1-ND"
 			(at 241.3 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -22083,6 +22215,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 231.14 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12938167-4e0f-4e57-aaca-e462d1db1be9")
 		)
@@ -22206,7 +22349,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "P20.0KHCT-ND"
 			(at 168.91 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -22426,6 +22569,17 @@
 				)
 			)
 		)
+		(property "MFR" "Panasonic"
+			(at 168.91 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "733fc0a7-5a76-4640-981a-261b49591323")
 		)
@@ -22494,7 +22648,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 100.33 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -22516,7 +22670,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 100.33 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -22527,7 +22681,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 100.33 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -22540,6 +22694,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 100.33 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 100.33 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 100.33 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23040,7 +23216,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -23062,7 +23238,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -23073,7 +23249,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 115.57 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -23086,6 +23262,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 115.57 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 115.57 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 115.57 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23163,7 +23361,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 93.98 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -23185,7 +23383,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 93.98 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -23196,7 +23394,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 93.98 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -23209,6 +23407,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 93.98 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 93.98 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 93.98 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23255,7 +23475,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~{SHDN}"
+		(property "Value" "BBClk"
 			(at 127.508 98.044 90)
 			(hide yes)
 			(show_name no)
@@ -23720,7 +23940,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 64.77 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -24322,7 +24542,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 106.68 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -24688,7 +24908,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 77.47 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -24710,7 +24930,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 77.47 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -24721,7 +24941,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 77.47 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -24732,7 +24952,29 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "Vendor PN" "P0.0GCT-ND"
+			(at 77.47 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 77.47 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P0.0GCT-ND"
 			(at 77.47 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -24811,7 +25053,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 120.65 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -24833,7 +25075,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 120.65 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -24844,7 +25086,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 120.65 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -24857,6 +25099,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 120.65 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 120.65 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25012,7 +25276,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 125.73 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25034,7 +25298,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 125.73 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25045,7 +25309,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 125.73 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25058,6 +25322,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 125.73 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 125.73 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 125.73 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25137,7 +25423,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 64.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -25159,7 +25445,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 64.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -25170,7 +25456,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 64.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -25181,7 +25467,40 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "Vendor PN" "P0.0GCT-ND"
+			(at 64.77 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DNP" "0"
+			(at 64.77 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 64.77 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P0.0GCT-ND"
 			(at 64.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -25841,7 +26160,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "903-1008-1-ND"
 			(at 36.83 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26850,7 +27169,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 33.02 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -26872,7 +27191,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 33.02 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -26883,7 +27202,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 33.02 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -26896,6 +27215,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 33.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 33.02 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 33.02 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27295,7 +27636,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "ARF1904-ND"
 			(at 21.59 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -27662,7 +28003,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 97.79 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -27684,7 +28025,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 97.79 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -27695,7 +28036,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 97.79 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -27708,6 +28049,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 97.79 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 97.79 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 97.79 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27920,7 +28283,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 154.94 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -29304,7 +29667,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 29.21 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -29326,7 +29689,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 29.21 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -29337,7 +29700,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 29.21 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -29350,6 +29713,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 29.21 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 29.21 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 29.21 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29716,7 +30101,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-C0805C104K8RACTUCT-ND"
 			(at 252.73 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -31371,7 +31756,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 153.67 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -32072,6 +32457,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 40.64 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-GCM1885C2A471FA16DCT-ND"
 			(at 40.64 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -32874,7 +33270,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-15708-1-ND"
 			(at 246.38 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33219,7 +33615,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 124.46 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -33507,7 +33903,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 77.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -33529,7 +33925,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 77.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -33540,7 +33936,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 77.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -33551,7 +33947,29 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "Vendor PN" "P0.0GCT-ND"
+			(at 77.47 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 77.47 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P0.0GCT-ND"
 			(at 77.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -34603,7 +35021,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d4628cf8-daa0-49c9-9d4d-b4d99dea8d0a")
 		(property "Reference" "C19"
 			(at 114.3 178.054 90)
@@ -34616,8 +35034,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NL"
-			(at 109.22 178.054 90)
+		(property "Value" "470 pF"
+			(at 105.156 178.054 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35049,7 +35467,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-C0805C104K8RACTUCT-ND"
 			(at 252.73 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -35393,7 +35811,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "ARF1206-ND"
 			(at 21.59 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -35947,6 +36365,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 199.39 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2131f304-7619-45a0-b4ce-78066a0f2af6")
 		)
@@ -36281,6 +36710,17 @@
 				)
 			)
 		)
+		(property "VPN" "399-6856-1-ND"
+			(at 189.23 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "70fc9ef7-4dd1-4444-916a-ed75a18f67a7")
 		)
@@ -36405,7 +36845,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-14399-1-ND"
 			(at 241.3 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -36693,7 +37133,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 33 OHM 1% 1/10W 0603"
 			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36715,7 +37155,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "  ERJ-3EKF33R0V"
 			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36726,7 +37166,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "Digikey"
 			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36739,6 +37179,28 @@
 		)
 		(property "Vendor PN" ""
 			(at 93.98 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 93.98 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P33.0HCT-ND"
+			(at 93.98 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36970,7 +37432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0603"
 			(at 71.12 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -36992,7 +37454,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ERJ-3GEY0R00V"
 			(at 71.12 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -37003,7 +37465,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 71.12 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -37014,7 +37476,40 @@
 				)
 			)
 		)
-		(property "Vendor PN" ""
+		(property "Vendor PN" "P0.0GCT-ND"
+			(at 71.12 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DNP" "0"
+			(at 71.12 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 71.12 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "P0.0GCT-ND"
 			(at 71.12 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -37624,6 +38119,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 231.14 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2f279d6f-2d8d-4556-b2ff-ea5764c1c66f")
 		)
@@ -37648,7 +38154,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ecca83c4-e706-461d-825f-3accfff83eec")
 		(property "Reference" "C29"
 			(at 195.834 113.538 0)
@@ -37661,7 +38167,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NL"
+		(property "Value" "10 nF"
 			(at 195.834 117.856 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38312,6 +38818,17 @@
 				)
 			)
 		)
+		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
+			(at 190.5 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df4d7092-adb1-4703-83cb-f16f52ee4724")
 		)
@@ -38336,7 +38853,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "eeef5d9a-862d-4b6d-8a2c-daaee2aed4a1")
 		(property "Reference" "C30"
 			(at 195.834 144.018 0)
@@ -38349,7 +38866,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NL"
+		(property "Value" "10 nF"
 			(at 195.834 148.336 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38793,7 +39310,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-6856-1-ND"
 			(at 189.23 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -39426,6 +39943,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-GCM1885C2A471FA16DCT-ND"
+			(at 40.64 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3792d3df-2644-4633-aa81-db0ff6a5edaa")
 		)
@@ -39750,6 +40278,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 264.16 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-5241-1-ND"
 			(at 264.16 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -40469,6 +41008,17 @@
 				)
 			)
 		)
+		(property "VPN" "490-5241-1-ND"
+			(at 182.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6ed4d52-0f9f-45bc-8181-f581eb68fb68")
 		)
@@ -40791,6 +41341,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 172.72 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-GCM1885C2A471FA16DCT-ND"
 			(at 172.72 140.97 0)
 			(hide yes)
 			(show_name no)
