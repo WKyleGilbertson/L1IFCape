@@ -9,7 +9,7 @@
 		(date "2026-08-15")
 		(rev "${SCH_VER}")
 		(comment 1 "https://cern.ch/cern-ohl ")
-		(comment 2 "License: CERN-OHL-W-2.0")
+		(comment 2 "License: CERN-OHL-S-2.0")
 		(comment 3 "Maxim 2769 BeagleV-Fire Cape")
 		(comment 4 "Author: W. Kyle Gilbertson")
 	)
