@@ -15227,6 +15227,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 190.5 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "33cb4df4-f332-4129-a5ad-c58df289ce30")
 		)
@@ -15794,6 +15805,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 182.88 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "de478b0d-3ec7-4bd7-87c6-b3cfbefb6762")
 		)
@@ -16129,6 +16151,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 246.38 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 246.38 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -16484,6 +16517,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 147.32 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34031256-43ba-4179-8df6-5fae5195ba7b")
 		)
@@ -16817,6 +16861,17 @@
 			)
 		)
 		(property "VPN" "399-C0603C270F3HACAUTOCT-ND"
+			(at 165.1 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 165.1 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -18203,6 +18258,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 80.01 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "27669aab-1035-45c3-b17c-051c12de3546")
 		)
@@ -18538,6 +18604,17 @@
 			)
 		)
 		(property "VPN" "490-5241-1-ND"
+			(at 153.67 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 153.67 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -18893,6 +18970,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 231.14 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ec6f91e5-1576-4fff-8957-1e6e15c4079b")
 		)
@@ -18963,7 +19051,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
+		(property "Description" "CAP CER 100PF 100V C0G/NP0 0603"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -18985,7 +19073,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K5RACAUTO"
+		(property "MPN" "GCM1885C2A101FA16D"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -19018,7 +19106,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -19228,6 +19316,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 158.75 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 158.75 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -19929,6 +20028,28 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 130.81 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
+			(at 130.81 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d193367-49e2-44e3-8da0-bf479003af8e")
 		)
@@ -19997,7 +20118,7 @@
 				)
 			)
 		)
-		(property "Description" "C0603C103F3GECAUTO"
+		(property "Description" "CAP CER 10000PF 25V C0G/NP0 0603"
 			(at 130.81 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -20262,6 +20383,17 @@
 			)
 		)
 		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
+			(at 130.81 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 130.81 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -21183,6 +21315,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 241.3 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cc663a6-b37d-4aa4-b5d1-8fba797442a4")
 		)
@@ -21253,7 +21396,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
+		(property "Description" "CAP CER 100PF 100V C0G/NP0 0603"
 			(at 152.4 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21275,7 +21418,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K5RACAUTO"
+		(property "MPN" "GCM1885C2A101FA16D"
 			(at 152.4 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21308,7 +21451,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 152.4 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21518,6 +21661,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 152.4 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 152.4 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21863,6 +22017,17 @@
 			)
 		)
 		(property "VPN" "490-5241-1-ND"
+			(at 231.14 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 231.14 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -23818,6 +23983,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 64.77 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f427d80e-82e3-4702-ab50-9969ce025e20")
 		)
@@ -24410,6 +24586,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 106.68 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 106.68 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -26028,6 +26215,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 36.83 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Laird"
 			(at 36.83 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -28161,6 +28359,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 154.94 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "74f0a750-b10c-4305-8f12-9606a57fb873")
 		)
@@ -28606,7 +28815,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
+		(property "Description" "CAP CER 100PF 100V C0G/NP0 0603"
 			(at 74.93 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -28628,7 +28837,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K5RACAUTO"
+		(property "MPN" "GCM1885C2A101FA16D"
 			(at 74.93 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -28661,7 +28870,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 74.93 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -28871,6 +29080,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 74.93 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 74.93 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -29979,6 +30199,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 252.73 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e51fd874-7c54-42ff-a346-92fdc703d898")
 		)
@@ -30130,7 +30361,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
+		(property "Description" "CAP CER 100PF 100V C0G/NP0 0603"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -30152,7 +30383,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K5RACAUTO"
+		(property "MPN" "GCM1885C2A101FA16D"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -30185,7 +30416,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -30395,6 +30626,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 106.68 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 106.68 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -31299,6 +31541,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 153.67 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2d799f6f-058a-471c-a559-b6274024d796")
 		)
@@ -31791,6 +32044,17 @@
 			)
 		)
 		(property "VPN" "490-GCM1885C2A471FA16DCT-ND"
+			(at 40.64 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 40.64 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -32813,6 +33077,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 246.38 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4b33ad0c-bcd8-4ee8-ab2f-0242372ae5f4")
 		)
@@ -33148,6 +33423,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 124.46 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 124.46 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -33628,6 +33914,28 @@
 			)
 		)
 		(property "Price" ""
+			(at 58.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 58.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 58.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -34676,6 +34984,28 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 113.03 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VPN" "490-GCM1885C2A471FA16DCT-ND"
+			(at 113.03 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7e9c198b-638e-4f7c-aa32-2ad742072cd7")
 		)
@@ -35011,6 +35341,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 252.73 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 252.73 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -35710,6 +36051,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 199.39 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2131f304-7619-45a0-b4ce-78066a0f2af6")
 		)
@@ -36055,6 +36407,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 189.23 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "70fc9ef7-4dd1-4444-916a-ed75a18f67a7")
 		)
@@ -36389,6 +36752,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 241.3 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 241.3 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -37464,6 +37838,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 231.14 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2f279d6f-2d8d-4556-b2ff-ea5764c1c66f")
 		)
@@ -37534,7 +37919,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10000PF 25V C0G/NP0 0603"
 			(at 195.58 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -37556,7 +37941,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0603C103F3GECAUTO"
 			(at 195.58 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -37567,7 +37952,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 195.58 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -37589,7 +37974,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
 			(at 195.58 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -37810,6 +38195,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 195.58 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 195.58 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -38163,6 +38559,17 @@
 				)
 			)
 		)
+		(property "MFR" "Kemet"
+			(at 190.5 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df4d7092-adb1-4703-83cb-f16f52ee4724")
 		)
@@ -38233,7 +38640,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10000PF 25V C0G/NP0 0603"
 			(at 195.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38255,7 +38662,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0603C103F3GECAUTO"
 			(at 195.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38266,7 +38673,7 @@
 				)
 			)
 		)
-		(property "Vendor" ""
+		(property "Vendor" "DigiKey"
 			(at 195.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38288,7 +38695,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "399-C0603C103F3GECAUTOCT-ND"
 			(at 195.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38509,6 +38916,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 195.58 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 195.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38854,6 +39272,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 189.23 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Kemet"
 			(at 189.23 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -39288,6 +39717,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 40.64 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3792d3df-2644-4633-aa81-db0ff6a5edaa")
 		)
@@ -39623,6 +40063,17 @@
 			)
 		)
 		(property "VPN" "490-5241-1-ND"
+			(at 264.16 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 264.16 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -40353,6 +40804,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 182.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6ed4d52-0f9f-45bc-8181-f581eb68fb68")
 		)
@@ -40696,6 +41158,17 @@
 				)
 			)
 		)
+		(property "MFR" "Murata"
+			(at 172.72 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aabdf1da-784b-4189-8a5f-def84da04059")
 		)
@@ -40766,7 +41239,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
+		(property "Description" "CAP CER 100PF 100V C0G/NP0 0603"
 			(at 160.02 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -40788,7 +41261,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K5RACAUTO"
+		(property "MPN" "GCM1885C2A101FA16D"
 			(at 160.02 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -40821,7 +41294,7 @@
 				)
 			)
 		)
-		(property "VPN" ""
+		(property "VPN" "490-GCM1885C2A101FA16DCT-ND"
 			(at 160.02 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -41031,6 +41504,17 @@
 			)
 		)
 		(property "Price" ""
+			(at 160.02 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
 			(at 160.02 129.54 0)
 			(hide yes)
 			(show_name no)
