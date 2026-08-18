@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5"
     },
-    "CreationDate": "2026-08-15T18:29:14-06:00"
+    "CreationDate": "2026-08-18T06:29:16-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -75,6 +75,11 @@
     {
       "Path": "L1IFCape-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "L1IFCape-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
