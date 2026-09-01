@@ -8449,7 +8449,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a20da6b-62bf-45e1-9684-94379297e4f5")
+			(uuid "ea6a6e18-b8a9-4ce8-b711-d05326b144f4")
 			(effects
 				(font
 					(size 1 1)
@@ -8488,7 +8488,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af7f33e0-ef08-4ee2-b930-98577ab0853a")
+			(uuid "33eb41aa-26f7-4901-b388-d01677df7583")
 			(effects
 				(font
 					(size 1 1)
@@ -8501,7 +8501,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33eb41aa-26f7-4901-b388-d01677df7583")
+			(uuid "af7f33e0-ef08-4ee2-b930-98577ab0853a")
 			(effects
 				(font
 					(size 1 1)
@@ -8514,7 +8514,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea6a6e18-b8a9-4ce8-b711-d05326b144f4")
+			(uuid "8a20da6b-62bf-45e1-9684-94379297e4f5")
 			(effects
 				(font
 					(size 1 1)
@@ -8679,14 +8679,6 @@
 		(path "/d1589a67-d8d0-4f09-88db-e5307d2a35b1")
 		(sheetname "/")
 		(sheetfile "L1IFCape.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "29" "8" "28" "9" "27" "10" "11" "26"
-					"12" "25" "13" "24" "14" "23" "22" "21" "20" "19" "18" "17" "16" "15"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9153,12 +9145,15 @@
 			(thermal_bridge_angle 45)
 			(uuid "ec99e40f-0996-4d50-8664-4022e84e95fe")
 		)
-		(pad "29" thru_hole rect
+		(pad "29" thru_hole roundrect
 			(at -1.21875 -1.21875 90)
 			(size 0.8125 0.8125)
 			(drill 0.3)
 			(layers "*.Cu" "F.Mask")
 			(remove_unused_layers no)
+			(roundrect_rratio 0)
+			(chamfer_ratio 0.2)
+			(chamfer top_left)
 			(net "GND")
 			(pinfunction "EP_29")
 			(pintype "free")
@@ -19884,7 +19879,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c628014d-9725-4489-9ba7-23d525da21f6")
+			(uuid "3af7d439-e759-4f4d-834d-1f29cf367348")
 			(effects
 				(font
 					(size 1 1)
@@ -19897,7 +19892,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3af7d439-e759-4f4d-834d-1f29cf367348")
+			(uuid "c628014d-9725-4489-9ba7-23d525da21f6")
 			(effects
 				(font
 					(size 1 1)
@@ -20039,12 +20034,6 @@
 		(path "/c2b4acda-8eae-48af-92ca-72b6e96b44b7")
 		(sheetname "/")
 		(sheetfile "L1IFCape.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(zone_connect 1)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -20291,7 +20280,7 @@
 			(uuid "7c8bdc56-9795-426b-b713-191dc1e1fafe")
 		)
 		(fp_text user "*"
-			(at -3.1497 -0.225001 90)
+			(at -3.4523 -1.734999 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b358498b-cc6d-48a4-a75d-d191704ccc5f")
@@ -20434,10 +20423,13 @@
 			(pintype "power_in")
 			(uuid "602fad1b-7211-4c59-9d24-cd7208fd5172")
 		)
-		(pad "9" smd rect
+		(pad "9" smd roundrect
 			(at 0 0 90)
 			(size 2.6924 2.3114)
 			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0)
+			(chamfer_ratio 0.1)
+			(chamfer top_left)
 			(net "GND")
 			(pinfunction "EPAD_9")
 			(pintype "power_in")
@@ -404121,18 +404113,6 @@
 		(at 161.1 53.84 90)
 		(layer "F.SilkS")
 		(uuid "3491ff20-f0e8-43be-9b05-30c190d684ec")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "*"
-		(at 167.15 87.45 90)
-		(layer "F.SilkS")
-		(uuid "cee5d5c1-c2b6-4cd8-948b-a4a25860010b")
 		(effects
 			(font
 				(size 1 1)
