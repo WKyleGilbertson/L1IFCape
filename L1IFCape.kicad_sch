@@ -7297,26 +7297,24 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "X4"
-				(at 7.62 -5.08 0)
+			(property "Reference" "X1"
+				(at 8.89 -4.826 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
-					(justify left)
 				)
 			)
 			(property "Value" "SIT5156"
-				(at 3.81 -2.54 0)
+				(at 8.382 2.286 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
-					(justify left)
 				)
 			)
 			(property "Footprint" "L1IF:10L_CQFN"
@@ -7341,8 +7339,8 @@
 					)
 				)
 			)
-			(property "Description" "MEMS OSC TCXO 16.3680MHZ"
-				(at 0 0 0)
+			(property "Description" "MEMS OSC DCTCXO 16.3680MHZ DC"
+				(at -2.794 4.572 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -7363,7 +7361,7 @@
 					)
 				)
 			)
-			(property "MPN" "SIT5156AICFK-30N0-16.368000"
+			(property "MPN" "SIT5156AI-FK-28N0-16.367667"
 				(at 8.89 12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7397,9 +7395,141 @@
 				)
 			)
 			(property "Notes" "16.368 MHz"
+				(at 8.89 -9.906 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "VPN" "1473-SIT5156AICFK-30N0-16.368000-ND"
+				(at -0.762 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MFR" "SiTime"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Details" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MFD" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MANUFACTURER_NAME" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MOUSER_PART_NUMBER" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MOUSER_PRICE-STOCK" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7438,8 +7568,26 @@
 				)
 			)
 			(symbol "SIT5156AICFA-30N0-16.368000_1_1_0"
+				(pin input line
+					(at 0 -5.08 0)
+					(length 2.54)
+					(name "OE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin no_connect line
-					(at 15.24 -5.08 180)
+					(at 10.16 -8.89 90)
 					(length 0)
 					(hide yes)
 					(name "NC"
@@ -7458,7 +7606,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 15.24 -2.54 180)
+					(at 8.89 1.27 270)
 					(length 0)
 					(hide yes)
 					(name "NC"
@@ -7494,25 +7642,6 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at 8.89 1.27 270)
-					(length 0)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(symbol "SIT5156AICFA-30N0-16.368000_1_1_1"
 				(rectangle
@@ -7526,30 +7655,10 @@
 						(type background)
 					)
 				)
-				(pin no_connect line
-					(at 2.54 0 0)
-					(length 0)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.4986 1.4986)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.4986 1.4986)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 2.54 -2.54 0)
-					(length 0)
-					(hide yes)
-					(name "NC"
+				(pin input line
+					(at 17.78 -2.54 180)
+					(length 2.54)
+					(name "SCL"
 						(effects
 							(font
 								(size 1.4986 1.4986)
@@ -7565,7 +7674,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 2.54 -5.08 0)
+					(at 7.62 -8.89 90)
 					(length 0)
 					(hide yes)
 					(name "NC"
@@ -7601,11 +7710,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at 8.89 -8.89 90)
-					(length 0)
-					(hide yes)
-					(name "NC"
+				(pin input line
+					(at 0 -2.54 0)
+					(length 2.54)
+					(name "A0"
 						(effects
 							(font
 								(size 1.4986 1.4986)
@@ -7613,6 +7721,24 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 0 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "10"
 						(effects
 							(font
 								(size 1.4986 1.4986)
@@ -9001,10 +9127,16 @@
 		(uuid "c0eca5ed-bc5e-4618-9bcd-80945bea41ed")
 	)
 	(junction
-		(at 153.67 109.22)
+		(at 162.56 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c18b6405-0a26-4806-a13a-c92454b38ec9")
+	)
+	(junction
+		(at 160.02 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c558d5c5-dcb5-4129-bacb-d94466b2a72e")
 	)
 	(junction
 		(at 231.14 46.99)
@@ -9041,6 +9173,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e764505e-f286-4448-bacc-296a6360d92b")
+	)
+	(junction
+		(at 160.02 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f324fe32-88f4-4e63-8f9e-40e8d2bc09e4")
 	)
 	(junction
 		(at 250.19 148.59)
@@ -10316,7 +10454,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 109.22) (xy 153.67 109.22)
+			(xy 160.02 109.22) (xy 162.56 109.22)
 		)
 		(stroke
 			(width 0)
@@ -10373,6 +10511,16 @@
 			(type default)
 		)
 		(uuid "53184489-f9dc-46a5-8d9a-b612b1b7a204")
+	)
+	(wire
+		(pts
+			(xy 160.02 106.68) (xy 160.02 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53de91e2-1f6f-4119-a359-89e97106c537")
 	)
 	(wire
 		(pts
@@ -10566,7 +10714,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 101.6) (xy 153.67 101.6)
+			(xy 160.02 101.6) (xy 162.56 101.6)
 		)
 		(stroke
 			(width 0)
@@ -10916,7 +11064,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 109.22) (xy 153.67 110.49)
+			(xy 162.56 109.22) (xy 162.56 110.49)
 		)
 		(stroke
 			(width 0)
@@ -11526,7 +11674,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 101.6) (xy 130.81 101.6)
+			(xy 130.81 101.6) (xy 142.24 101.6)
 		)
 		(stroke
 			(width 0)
@@ -11953,6 +12101,16 @@
 			(type solid)
 		)
 		(uuid "db303965-d3b1-4d01-9053-7303f3de773d")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 160.02 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd47c757-3aa6-4282-a76c-beb1e8ddec9f")
 	)
 	(wire
 		(pts
@@ -12904,6 +13062,16 @@
 		)
 		(uuid "6fae0978-d8f0-4cfc-9850-4ed04e32954b")
 	)
+	(label "SDA.I2C0"
+		(at 142.24 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "726496f3-d05c-49d7-aa9f-d46ad7347ea5")
+	)
 	(label "2V85A"
 		(at 142.24 132.08 0)
 		(effects
@@ -13123,6 +13291,16 @@
 			(justify left bottom)
 		)
 		(uuid "a32e9f3d-aa84-4d01-8ccd-f4f05eb58a4f")
+	)
+	(label "SCL.I2C0"
+		(at 142.24 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a633130b-7d50-4334-b825-0a9168fdd0af")
 	)
 	(label "SQ0H"
 		(at 115.57 100.33 270)
@@ -13535,7 +13713,7 @@
 		(uuid "e7c96b8f-7455-48bf-88bb-c3ec6079c6ee")
 	)
 	(label "2V85D"
-		(at 152.4 101.6 0)
+		(at 161.29 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18277,7 +18455,7 @@
 	)
 	(symbol
 		(lib_id "L1IF:1uF_0603")
-		(at 153.67 105.41 0)
+		(at 162.56 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18287,7 +18465,7 @@
 		(dnp no)
 		(uuid "3104d05f-22e6-432f-a526-299eca26c8ae")
 		(property "Reference" "C15"
-			(at 152.4 103.378 0)
+			(at 161.29 103.378 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18298,7 +18476,7 @@
 			)
 		)
 		(property "Value" "1.0 uF"
-			(at 150.114 107.696 0)
+			(at 160.782 107.442 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18309,7 +18487,7 @@
 			)
 		)
 		(property "Footprint" "L1IF:C_0603_1608Metric"
-			(at 154.6352 109.22 0)
+			(at 163.5252 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18320,7 +18498,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18331,7 +18509,7 @@
 			)
 		)
 		(property "Description" "CAP CER 1UF 16V X7R 0603"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18342,7 +18520,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18353,7 +18531,7 @@
 			)
 		)
 		(property "MPN" "GCM188R71C105KA64D"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18364,7 +18542,7 @@
 			)
 		)
 		(property "Vendor" "DigiKey"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18375,7 +18553,7 @@
 			)
 		)
 		(property "Vendor PN" "490-5241-1-ND"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18386,7 +18564,7 @@
 			)
 		)
 		(property "AltMFR" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18397,7 +18575,7 @@
 			)
 		)
 		(property "AltValue" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18408,7 +18586,7 @@
 			)
 		)
 		(property "AltMFR2" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18419,7 +18597,7 @@
 			)
 		)
 		(property "AltMPN" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18430,7 +18608,7 @@
 			)
 		)
 		(property "AltMPN1" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18441,7 +18619,7 @@
 			)
 		)
 		(property "AltMPN2" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18452,7 +18630,7 @@
 			)
 		)
 		(property "AltVPN1" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18463,7 +18641,7 @@
 			)
 		)
 		(property "AltValue2" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18474,7 +18652,7 @@
 			)
 		)
 		(property "DigiKey" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18485,7 +18663,7 @@
 			)
 		)
 		(property "Details" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18496,7 +18674,7 @@
 			)
 		)
 		(property "MFD" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18507,7 +18685,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18518,7 +18696,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18529,7 +18707,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18540,7 +18718,7 @@
 			)
 		)
 		(property "MANUFACTURER_NAME" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18551,7 +18729,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18562,7 +18740,7 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18573,7 +18751,7 @@
 			)
 		)
 		(property "MOUSER_PRICE-STOCK" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18584,7 +18762,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18595,7 +18773,7 @@
 			)
 		)
 		(property "VPN" "490-5241-1-ND"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18606,7 +18784,7 @@
 			)
 		)
 		(property "MFR" "Murata"
-			(at 153.67 105.41 0)
+			(at 162.56 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25364,7 +25542,7 @@
 	)
 	(symbol
 		(lib_id "L1IF:SIT5156AICFA-30N0-16.368000_1")
-		(at 151.13 109.22 180)
+		(at 160.02 109.22 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25374,7 +25552,7 @@
 		(dnp no)
 		(uuid "6c2201f2-4360-4048-ae59-5370b854b6c6")
 		(property "Reference" "X1"
-			(at 141.732 102.87 0)
+			(at 151.13 104.394 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25384,7 +25562,7 @@
 			)
 		)
 		(property "Value" "SIT5156"
-			(at 141.732 105.156 0)
+			(at 151.638 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25394,7 +25572,7 @@
 			)
 		)
 		(property "Footprint" "L1IF:10L_CQFN"
-			(at 143.51 132.08 0)
+			(at 152.4 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25405,7 +25583,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit5156-datasheet"
-			(at 147.32 125.73 0)
+			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25415,8 +25593,8 @@
 				)
 			)
 		)
-		(property "Description" "MEMS OSC TCXO 16.3680MHZ"
-			(at 151.13 109.22 0)
+		(property "Description" "MEMS OSC DCTCXO 16.367667 MHZ DC"
+			(at 162.814 113.792 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25427,7 +25605,7 @@
 			)
 		)
 		(property "Manufacturer" "SiTime"
-			(at 142.24 127 0)
+			(at 151.13 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25437,8 +25615,8 @@
 				)
 			)
 		)
-		(property "MPN" "SIT5156AICFK-30N0-16.368000"
-			(at 142.24 121.92 0)
+		(property "MPN" "SiT5156AICFK028IT-16.367667"
+			(at 151.13 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25448,8 +25626,8 @@
 				)
 			)
 		)
-		(property "Vendor" "DigiKey"
-			(at 142.24 129.54 0)
+		(property "Vendor" "SiTime"
+			(at 151.13 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25459,8 +25637,8 @@
 				)
 			)
 		)
-		(property "Vendor PN" "1473-SIT5156AICFK-30N0-16.368000-ND"
-			(at 142.24 123.19 0)
+		(property "Vendor PN" "SiT5156AICFK028IT-16.367667"
+			(at 151.13 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25470,8 +25648,8 @@
 				)
 			)
 		)
-		(property "Notes" "16.368 MHz"
-			(at 142.494 106.934 0)
+		(property "Notes" "16.367667 MHz"
+			(at 151.384 98.552 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25480,8 +25658,8 @@
 				)
 			)
 		)
-		(property "VPN" "1473-SIT5156AICFK-30N0-16.368000-ND"
-			(at 151.13 109.22 0)
+		(property "VPN" ""
+			(at 160.782 116.078 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25492,7 +25670,7 @@
 			)
 		)
 		(property "MFR" "SiTime"
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25503,7 +25681,7 @@
 			)
 		)
 		(property "Details" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25514,7 +25692,7 @@
 			)
 		)
 		(property "MFD" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25524,8 +25702,8 @@
 				)
 			)
 		)
-		(property "Availability" ""
-			(at 151.13 109.22 0)
+		(property "Availability" "https://www.sitime.com/products/ultrastable-mhz-super-tcxos/super-tcxos/sit5156"
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25536,7 +25714,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25547,7 +25725,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25558,7 +25736,7 @@
 			)
 		)
 		(property "MANUFACTURER_NAME" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25569,7 +25747,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25580,7 +25758,7 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25591,7 +25769,7 @@
 			)
 		)
 		(property "MOUSER_PRICE-STOCK" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25602,7 +25780,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 151.13 109.22 0)
+			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40092,7 +40270,7 @@
 	)
 	(symbol
 		(lib_id "L1IF:GND")
-		(at 153.67 110.49 0)
+		(at 162.56 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -40102,7 +40280,7 @@
 		(dnp no)
 		(uuid "f673de5e-7877-4716-af1d-c8ef7a18dd56")
 		(property "Reference" "#PWR020"
-			(at 153.67 116.84 0)
+			(at 162.56 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40113,7 +40291,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 153.67 113.792 0)
+			(at 162.56 113.792 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40123,7 +40301,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 110.49 0)
+			(at 162.56 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40134,7 +40312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 110.49 0)
+			(at 162.56 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40145,7 +40323,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 110.49 0)
+			(at 162.56 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
