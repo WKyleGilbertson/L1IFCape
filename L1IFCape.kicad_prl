@@ -93,9 +93,13 @@
       "Net-(U4-EN)",
       "Net-(U4-NR{slash}FB)",
       "Net-(U2-Q1)",
+      "/2V85D",
+      "/SCL.I2C0",
+      "unconnected-(X1-NC-Pad3)",
       "Net-(X1-CLK)",
       "unconnected-(X1-NC-Pad7)",
-      "/2V85D",
+      "unconnected-(X1-NC-Pad8)",
+      "/SDA.I2C0",
       "Net-(U2-LNAOUT)",
       "Net-(U2-MIXIN)",
       "/2V85A",
@@ -118,11 +122,9 @@
       "unconnected-(U2-NC-Pad28)",
       "/Passive",
       "/Active",
-      "/SDA.I2C0",
       "Net-(U1-WP)",
       "Net-(U5-EN)",
       "Net-(U3-VBAT)",
-      "/SCL.I2C0",
       "unconnected-(U3-CLKO-Pad1)",
       "unconnected-(U3-SQW-Pad4)"
     ],
@@ -173,7 +175,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_080090b0_57555575",
+    "visible_layers": "00000000_00000000_080090b0_57555565",
     "zone_display_mode": 0
   },
   "git": {
