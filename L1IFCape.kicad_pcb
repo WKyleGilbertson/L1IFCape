@@ -13665,7 +13665,7 @@
 	(footprint "L1IF:L1IFCape-D4_SCH"
 		(layer "F.Cu")
 		(uuid "54ac2e1d-ad02-4d6e-bfab-0d0269c6afb2")
-		(at 150.27 70.13)
+		(at 150.54 70.91)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")

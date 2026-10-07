@@ -1,0 +1,11 @@
+(version 1)
+
+(rule "CPWG Clearance"
+    (condition "A.NetClass == 'L1Band' && B.Net == 'GND'")
+    (constraint clearance (min 0.23mm))
+)
+
+(rule "Ignore QR Code Self-Shorts"
+    (condition "A.Reference == 'QR*****' && B.Reference == 'QR*****'")
+    (constraint clearance (min -1mm))
+)
