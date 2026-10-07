@@ -902,6 +902,18 @@
           "label": "AltMFR",
           "name": "AltMFR",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Alternate1",
+          "name": "Alternate1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Alternate2",
+          "name": "Alternate2",
+          "show": false
         }
       ],
       "filter_string": "",

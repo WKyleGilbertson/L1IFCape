@@ -14177,338 +14177,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SIT5156AICFA-30N0-16.368000_1"
-		(pin_names
-			(offset 0.254)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "X4"
-			(at 7.62 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SIT5156"
-			(at 4.064 2.286 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "L1IF:10L_CQFN"
-			(at 7.62 22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit5156-datasheet"
-			(at 3.81 16.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" "MEMS OSC TCXO 16.3680MHZ"
-			(at 3.556 7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "SiTime"
-			(at 8.89 17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "SIT5156AICFK-30N0-16.368000"
-			(at 8.89 12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Vendor" "DigiKey"
-			(at 8.89 20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Vendor PN" "1473-SIT5156AICFK-30N0-16.368000-ND"
-			(at 8.89 13.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Notes" "16.368 MHz"
-			(at 8.382 4.318 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_fp_filters" "SOT_SiT1630-S_SIT"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol "SIT5156AICFA-30N0-16.368000_1_0_0"
-			(pin output line
-				(at 17.78 -7.62 180)
-				(length 2.54)
-				(name "CLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SIT5156AICFA-30N0-16.368000_1_1_0"
-			(pin no_connect line
-				(at 10.16 -8.89 90)
-				(length 0)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 0 -5.08 0)
-				(length 2.54)
-				(name "OE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 0 -7.62 0)
-				(length 2.54)
-				(name "VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 8.89 1.27 270)
-				(length 0)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SIT5156AICFA-30N0-16.368000_1_1_1"
-			(rectangle
-				(start 2.54 1.27)
-				(end 15.24 -8.89)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type background)
-				)
-			)
-			(pin bidirectional line
-				(at 17.78 0 180)
-				(length 2.54)
-				(name "SDA"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 17.78 -2.54 180)
-				(length 2.54)
-				(name "SCL"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 0 -2.54 0)
-				(length 2.54)
-				(name "A0"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 0 0 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 7.62 -8.89 90)
-				(length 0)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.4986 1.4986)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
-	(symbol "SiT5156AICFK028IT-16.367667"
+	(symbol "SiT5155AICFKG28IT-16.367667"
 		(pin_names
 			(offset 0.254)
 		)
@@ -14527,7 +14196,7 @@
 				)
 			)
 		)
-		(property "Value" "SIT5156"
+		(property "Value" "SIT5155"
 			(at 8.382 2.286 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14548,7 +14217,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit5156-datasheet"
+		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit5155-datasheet"
 			(at 3.81 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14559,7 +14228,7 @@
 				)
 			)
 		)
-		(property "Description" "MEMS OSC TCXO 16.367667 MHZ"
+		(property "Description" "MEMS OSC DCTCXO 16.367667 MHZ"
 			(at -2.794 4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14581,7 +14250,18 @@
 				)
 			)
 		)
-		(property "MPN" "SiT5156AICFK028IT-16.367667"
+		(property "MFR" "SiTime"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SiT5155AICFKG28IT-16.367667"
 			(at 8.89 12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14592,7 +14272,7 @@
 				)
 			)
 		)
-		(property "Vendor" "DigiKey"
+		(property "Vendor" ""
 			(at 8.89 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14603,7 +14283,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "SiT5156AICFK028IT-16.367667"
+		(property "Vendor PN" ""
 			(at 8.89 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14626,17 +14306,6 @@
 		)
 		(property "VPN" ""
 			(at -0.762 6.858 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFR" "SiTime"
-			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -14679,83 +14348,6 @@
 				)
 			)
 		)
-		(property "Check_prices" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description_1" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER_NAME" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MOUSER_PART_NUMBER" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MOUSER_PRICE-STOCK" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_fp_filters" "SOT_SiT1630-S_SIT"
 			(at 0 0 0)
 			(show_name no)
@@ -14767,7 +14359,7 @@
 				)
 			)
 		)
-		(symbol "SiT5156AICFK028IT-16.367667_0_0"
+		(symbol "SiT5155AICFKG28IT-16.367667_0_0"
 			(pin output line
 				(at 17.78 -7.62 180)
 				(length 2.54)
@@ -14787,7 +14379,7 @@
 				)
 			)
 		)
-		(symbol "SiT5156AICFK028IT-16.367667_1_0"
+		(symbol "SiT5155AICFKG28IT-16.367667_1_0"
 			(pin no_connect line
 				(at 10.16 -8.89 90)
 				(length 0)
@@ -14863,7 +14455,7 @@
 				)
 			)
 		)
-		(symbol "SiT5156AICFK028IT-16.367667_1_1"
+		(symbol "SiT5155AICFKG28IT-16.367667_1_1"
 			(rectangle
 				(start 2.54 1.27)
 				(end 15.24 -8.89)

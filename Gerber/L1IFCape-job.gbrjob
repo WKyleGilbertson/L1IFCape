@@ -3,18 +3,18 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.5"
+      "Version": "10.0.6"
     },
-    "CreationDate": "2026-08-18T06:52:17-06:00"
+    "CreationDate": "2026-10-07T11:03:35-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "L1IFCape",
       "GUID": "4c314946-4361-4706-952e-6b696361645f",
-      "Revision": "C"
+      "Revision": "D"
     },
     "Size": {
-      "X": 86.3625,
+      "X": 79.3625,
       "Y": 54.6125
     },
     "LayerNumber": 4,
@@ -24,18 +24,18 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.125,
+      "PadToTrack": 0.125,
+      "TrackToTrack": 0.125,
       "MinLineWidth": 0.2,
-      "TrackToRegion": 0.508,
-      "RegionToRegion": 0.508
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.125,
+      "PadToTrack": 0.125,
+      "TrackToTrack": 0.125,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
@@ -101,7 +101,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
-      "Color": "White",
+      "Color": "Yellow",
       "Name": "Top Silk Screen"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "R80G0B80",
+      "Color": "Black",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -121,6 +121,7 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R109G116B75",
       "Thickness": 0.1,
       "Material": "FR4",
       "Name": "F.Cu/In1.GND.Cu",
@@ -133,6 +134,7 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R109G116B75",
       "Thickness": 1.24,
       "Material": "FR4",
       "Name": "In1.GND.Cu/In2.PWR.Cu",
@@ -145,6 +147,7 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R109G116B75",
       "Thickness": 0.1,
       "Material": "FR4",
       "Name": "In2.PWR.Cu/B.Cu",
@@ -157,7 +160,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "R80G0B80",
+      "Color": "Black",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
@@ -167,7 +170,7 @@
     },
     {
       "Type": "Legend",
-      "Color": "White",
+      "Color": "Yellow",
       "Name": "Bottom Silk Screen"
     }
   ]
